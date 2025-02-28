@@ -2,24 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-21T18:08:48+00:00</lastmod>
+		<lastmod>2025-02-28T17:50:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/review1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/review3.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/review4.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/review2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/review5.webp</image:loc>
+			<image:loc>/wp-content/uploads/2025/02/review4.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/icon1.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/02/review3.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/review5.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/icon2.png</image:loc>
@@ -28,28 +25,63 @@
 			<image:loc>/wp-content/uploads/2025/02/icon3.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/icon1.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/pest-control.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>/gridley/</loc>
+		<lastmod>2025-02-28T19:52:12+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/oroville/</loc>
-		<lastmod>2025-02-22T05:15:43+00:00</lastmod>
+		<lastmod>2025-02-28T19:52:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/live-oak/</loc>
-		<lastmod>2025-02-22T05:15:43+00:00</lastmod>
+		<lastmod>2025-02-28T19:52:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/marysville/</loc>
-		<lastmod>2025-02-22T05:15:43+00:00</lastmod>
+		<lastmod>2025-02-28T19:52:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/chico/</loc>
-		<lastmod>2025-02-22T05:15:43+00:00</lastmod>
+		<lastmod>2025-02-28T19:52:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gridley/</loc>
-		<lastmod>2025-02-22T05:15:43+00:00</lastmod>
+		<loc>/ant-control/</loc>
+		<lastmod>2025-02-27T22:29:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/bee-and-wasp-removal/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/mosquito-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/silverfish-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/tick-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/moth-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/squirrel-removal/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/raccoon-removal/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/wildlife-control/</loc>
@@ -84,40 +116,8 @@
 		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/bee-and-wasp-removal/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/mosquito-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/silverfish-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/tick-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/moth-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/squirrel-removal/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/raccoon-removal/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/bed-bug-extermination/</loc>
 		<lastmod>2025-02-21T18:37:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/ant-control/</loc>
-		<lastmod>2025-02-19T23:57:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/about-us/</loc>
